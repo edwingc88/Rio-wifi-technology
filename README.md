@@ -1,3 +1,3 @@
-# kagianStore
+# RioWifiTechnology
 
-Sitio Web ecommerce para venta de Ropa,calzado y entre otros articulos. 👠 👕 👔 👗 🎽 👖 
+Sitio Web ecommerce para venta de productos de telecomuniciaciones 
