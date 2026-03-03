@@ -1,3 +1,3 @@
 # RioWifiTechnology
 
-Sitio Web ecommerce para venta de productos de telecomuniciaciones 
+Sitio Web de telecomuniciaciones y software
